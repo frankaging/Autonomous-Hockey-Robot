@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/dfu-programmer/!svn/ver/95/trunk/dfu-programmer/src
+END
+commands.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/dfu-programmer/!svn/ver/95/trunk/dfu-programmer/src/commands.c
+END
+atmel.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dfu-programmer/!svn/ver/88/trunk/dfu-programmer/src/atmel.c
+END
+arguments.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dfu-programmer/!svn/ver/94/trunk/dfu-programmer/src/arguments.c
+END
+commands.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/dfu-programmer/!svn/ver/71/trunk/dfu-programmer/src/commands.h
+END
+atmel.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/dfu-programmer/!svn/ver/85/trunk/dfu-programmer/src/atmel.h
+END
+arguments.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dfu-programmer/!svn/ver/94/trunk/dfu-programmer/src/arguments.h
+END
+dfu-bool.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/dfu-programmer/!svn/ver/67/trunk/dfu-programmer/src/dfu-bool.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/dfu-programmer/!svn/ver/48/trunk/dfu-programmer/src/util.c
+END
+dfu.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/dfu-programmer/!svn/ver/93/trunk/dfu-programmer/src/dfu.c
+END
+intel_hex.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dfu-programmer/!svn/ver/80/trunk/dfu-programmer/src/intel_hex.c
+END
+dfu-device.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/dfu-programmer/!svn/ver/93/trunk/dfu-programmer/src/dfu-device.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/dfu-programmer/!svn/ver/48/trunk/dfu-programmer/src/util.h
+END
+dfu.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/dfu-programmer/!svn/ver/93/trunk/dfu-programmer/src/dfu.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/dfu-programmer/!svn/ver/93/trunk/dfu-programmer/src/main.c
+END
+intel_hex.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dfu-programmer/!svn/ver/48/trunk/dfu-programmer/src/intel_hex.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dfu-programmer/!svn/ver/77/trunk/dfu-programmer/src/Makefile.am
+END

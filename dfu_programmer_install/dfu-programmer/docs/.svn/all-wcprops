@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/dfu-programmer/!svn/ver/94/trunk/dfu-programmer/docs
+END
+dfu-programmer.1
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/dfu-programmer/!svn/ver/94/trunk/dfu-programmer/docs/dfu-programmer.1
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/dfu-programmer/!svn/ver/3/trunk/dfu-programmer/docs/Makefile.am
+END
